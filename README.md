@@ -1,1 +1,1 @@
-# litecoin-detached-sigs
+# skullcoin-detached-sigs
